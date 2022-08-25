@@ -1,0 +1,30 @@
+{
+    "name": "erikgreasy/backoffice-apiclient",
+    "description": "PHP api klient pre komunikáciu s BackOffice (zoznamrealit.sk)",
+    "keywords": [
+      "erikgreasy",
+      "backoffice-apiclient"
+    ],
+    "homepage": "https://github.com/erikgreasy/backoffice-apiclient",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "erikgreasy",
+        "email": "erik.masny@gmail.com",
+        "role": "Developer"
+      }
+    ],
+    "require": {
+      "php": "^8.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "Erikgreasy\\Backoffice\\": "src"
+      }
+    },
+    "config": {
+      "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
