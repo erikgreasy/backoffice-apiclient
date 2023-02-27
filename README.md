@@ -8,7 +8,7 @@ PHP api klient pre jednoduchú komunikáciu s api rozhraním BackOffice (zoznamr
 Inštalácia package-u je možná cez nástroj composer:
 
 ```bash
-composer require erikgreasy/wp-advanced-forms
+composer require erikgreasy/backoffice-apiclient
 ```
 
 ## Usage
